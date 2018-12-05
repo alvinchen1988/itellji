@@ -1,0 +1,2 @@
+# itellji
+settings for intellji
