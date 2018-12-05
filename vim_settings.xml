@@ -1,0 +1,492 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/sites/frontend/www/site-canadadrivesgroup/resources/assets/js/app.js" timestamp="1540190418250">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Controllers/WhitelistController.php" timestamp="1540448342529">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="/index.blade.php" timestamp="1540847676038">
+        <mark key="[" line="16" column="18" />
+      </file>
+      <file name="/File Header.txt.ft" timestamp="1539906951436">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/public/a" timestamp="1540614158201">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1539928275150">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Blog/FsfBlogCategory.php" timestamp="1541793907328">
+        <mark key="[" line="6" column="7" />
+      </file>
+      <file name="/PHP Trait Doc Comment.txt.ft" timestamp="1539906939337">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Interface.txt.ft" timestamp="1539906907823">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Blog/FsfBlogPost.php" timestamp="1541807913349">
+        <mark key="[" line="9" column="10" />
+      </file>
+      <file name="/cd-homepage.posts [@127.0.0.1]" timestamp="1540186056892">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/blog/exit-popup.blade.php" timestamp="1540449333276">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="3" />
+        <mark key="^" line="62" column="40" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/PHP File.txt.ft" timestamp="1539906908260">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/public/application/composer.json" timestamp="1539906521675">
+        <mark key="[" line="7" column="19" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1539906953179">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/cd-homepage.post_tags [@127.0.0.1]" timestamp="1540020835168">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/site-canadadrivesgroup/bootstrap/cache/services.php" timestamp="1540190607131">
+        <mark key="[" line="176" column="15" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/BlogController.php" timestamp="1542130289041">
+        <mark key="'" line="79" column="79" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/dealer/app/Library/ContactUs.php" timestamp="1541183095366">
+        <mark key="[" line="143" column="44" />
+        <mark key="]" line="104" column="9" />
+        <mark key="^" line="104" column="9" />
+        <mark key="." line="104" column="9" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/dealer/public/index.php" timestamp="1541106510506">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/PHP Interface Doc Comment.txt.ft" timestamp="1539906941506">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Blog/BlogCategory.php" timestamp="1541792744714">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/PHPUnit Test.txt.ft" timestamp="1539906905904">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHPUnit 6 Test.txt.ft" timestamp="1539906906478">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/public/index.php" timestamp="1540612746503">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/resources/personal-loans/index.blade.php" timestamp="1539986261804">
+        <mark key="[" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/site-canadadrivesgroup/routes/api.php" timestamp="1540190256120">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/vendor/fzaninotto/faker/src/autoload.php" timestamp="1540189458057">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Kernel.php" timestamp="1542866923476">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="14" column="71" />
+        <mark key="." line="14" column="71" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/site-canadadrivesgroup/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php" timestamp="1540189141283">
+        <mark key="[" line="89" column="46" />
+        <mark key="]" line="89" column="19" />
+        <mark key="^" line="89" column="19" />
+        <mark key="." line="89" column="19" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/admin/blog/index.blade.php" timestamp="1541809257510">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="32" column="121" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/amp/index.blade.php" timestamp="1540533893349">
+        <mark key="[" line="656" column="12" />
+        <mark key="]" line="1000" column="38" />
+        <mark key="." line="1000" column="38" />
+        <mark key="^" line="1000" column="38" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" timestamp="1543966185625">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+      </file>
+      <file name="/PHPSpec Specification.txt.ft" timestamp="1539906906939">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Codeception Unit Test.txt.ft" timestamp="1539906907352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Function Doc Comment.txt.ft" timestamp="1539906943077">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/config/Dockerfile" timestamp="1540921049344">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="49" column="9" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="/cd-homepage.categories [@127.0.0.1]" timestamp="1541790106202">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/AdminComposer.php" timestamp="1541802018295">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1541957658971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1540589705012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Trait.txt.ft" timestamp="1539906905308">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/PHP Field Doc Comment.txt.ft" timestamp="1539906947120">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/config/apache2-foreground" timestamp="1540935788876">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1539906902744">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1541790106640">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/admin/blog/create_category.blade.php" timestamp="1541808528773">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="19" column="61" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="19" column="61" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541810789457">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/admin/blog/create_post.blade.php" timestamp="1541809496061">
+        <mark key="[" line="38" column="69" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/public/build/js/admin.js" timestamp="1542909488956">
+        <mark key="[" line="260" column="3" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php" timestamp="1540189764034">
+        <mark key="[" line="28" column="15" />
+      </file>
+      <file name="/fragment.php" timestamp="1540576820119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/public/basicform/admin/api/Admin_API.php" timestamp="1541798816775">
+        <mark key="[" line="22" column="26" />
+      </file>
+      <file name="/BlogController.php" timestamp="1542130277213">
+        <mark key="[" line="35" column="61" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/BlogCategoryController.php" timestamp="1541808460259">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/vendor/tijsverkoyen/css-to-inline-styles/src/CssToInlineStyles.php" timestamp="1539983287970">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/StaticPageController.php" timestamp="1540251374350">
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="31" />
+        <mark key="^" line="58" column="31" />
+        <mark key="." line="58" column="31" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/infra-lead-api/tests/Feature/Api/LeadCustomerDocumentUploadTest.php" timestamp="1541191306235">
+        <mark key="[" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/AmpController.php" timestamp="1540236954885">
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="38" column="15" />
+      </file>
+      <file name="/cd-homepage.articles [@127.0.0.1]" timestamp="1540192224116">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/admin/layout/main.blade.php" timestamp="1541803204293">
+        <mark key="[" line="47" column="108" />
+        <mark key="]" line="47" column="108" />
+        <mark key="." line="47" column="108" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/static-page/index.blade.php" timestamp="1540847680467">
+        <mark key="[" line="16" column="64" />
+      </file>
+      <file name="/PHP Class Doc Comment.txt.ft" timestamp="1539906949036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/site-canadadrivesgroup/resources/assets/sass/_main.scss" timestamp="1540232659074">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1540508616563">
+        <mark key="[" line="325" column="5" />
+        <mark key="]" line="326" column="3" />
+        <mark key="^" line="326" column="3" />
+        <mark key="." line="326" column="3" />
+      </file>
+      <file name="/PHP File Header.txt.ft" timestamp="1539906944796">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1540577478334">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="14" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="81" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="88" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="90" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="100" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="121" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="123" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Console/Commands/AmplifyPosts.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="34" column="2" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="223" column="2" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="387" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/amp/show.blade.php" />
+      <jump line="911" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/amp/show.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/amp/show.blade.php" />
+      <jump line="922" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/amp/show.blade.php" />
+      <jump line="171" column="21" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="242" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="39" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="103" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="110" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="234" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="230" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="226" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="217" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="208" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="203" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="199" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="194" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="189" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="184" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="177" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="170" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="163" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="143" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="126" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="122" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="119" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="115" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="111" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="107" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="5" column="29" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="224" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
+      <jump line="22" column="8" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="14" column="5" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="28" column="8" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="33" column="8" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/sites/frontend/www/infra-lead-api/app/Http/Middleware/Whitelist.php" />
+      <jump line="74" column="79" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/BlogController.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Kernel.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Kernel.php" />
+      <jump line="9" column="12" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="79" column="4" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/sites/frontend/www/freshstartfinance/public/assets/js/sid-tracking.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>c</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwqXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlIEFwcFxCbG9nXEJsb2dDYXRlZ29yeTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYXBwbHlBbmNob3Iuc2V0QXR0cmlidXRlKCdocmVmJywgZmluYWxVcmwpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGZpbmFsVXJsID0gYXBwbHlBbmNob3IuZ2V0QXR0cmlidXRlKCdocmVmJykuc3BsaXQoJz8nKVswXSArIHFzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bW92ZSBhbXAve3VybH0gcnVsZSBpbiByb3V0ZS5waHAgb24gdG9wIG9mIHRoZSAvYW1wL2FwcGxpY2F0aW9uZCAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiB0aW55IGFkZCIgb25DbGljaz0ibG9jYXRpb24uaHJlZj0neyEhcm91dGUoJ2FkbWluLmJsb2cuY3JlYXRlJykhIX0nIj5OZXcgUG9zdDwvYnV0dG9uPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiB0aW55IGFkZCIgb25DbGljaz0ibG9jYXRpb24uaHJlZj0neyEhcm91dGUoJ2FkbWluLmJsb2ctY2F0ZWdvcnkuY3JlYXRlJykhIX0nIj5DcmVhdGUgQ2F0ZWdvcnk8L2J1dHRvbj4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEFwcFxCbG9nXEZkZHNmQmxvZ1Bvc3Q7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>22</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwqXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwqXD4=</last-pattern>
+      <last-replace>12px</last-replace>
+      <last-substitute>24px</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>function</entry>
+        <entry>24px</entry>
+        <entry encoding="base64">XDwqXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>52</entry>
+        <entry>%s/function/hello/g</entry>
+        <entry>5</entry>
+        <entry>74</entry>
+        <entry>qa</entry>
+        <entry>w10</entry>
+        <entry>10</entry>
+        <entry>%s/24px/12px/g</entry>
+        <entry>30</entry>
+        <entry>q</entry>
+        <entry>set paste</entry>
+        <entry>175</entry>
+        <entry>98</entry>
+        <entry>23</entry>
+        <entry>22</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

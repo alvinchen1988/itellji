@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="wea" type="PHP" />
+      <mapping pattern="apache2-foreground" type="PLAIN_TEXT" />
+      <mapping pattern="wea.php" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="ca" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
