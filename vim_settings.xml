@@ -245,6 +245,9 @@
       <file name="$USER_HOME$/sites/frontend/www/infra-lead-api/tests/Feature/Api/LeadCustomerDocumentUploadTest.php" timestamp="1541191306235">
         <mark key="[" line="22" column="22" />
       </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/resources/credit-building/credit-building-new.blade.php" timestamp="1544226873204">
+        <mark key="[" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/AmpController.php" timestamp="1540236954885">
         <mark key="[" line="96" column="11" />
         <mark key="]" line="17" column="11" />
@@ -282,6 +285,9 @@
       </file>
       <file name="/fragment.java" timestamp="1540577478334">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/layout/foot.blade.php" timestamp="1544226869370">
+        <mark key="[" line="7" column="60" />
       </file>
     </filemarks>
     <jumps>
