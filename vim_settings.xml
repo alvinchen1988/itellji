@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/sites/frontend/www/site-canadadrivesgroup/resources/assets/js/app.js" timestamp="1540190418250">
@@ -208,7 +208,7 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544729195586">
+      <file name="/Dummy.txt" timestamp="1544729344143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
