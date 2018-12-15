@@ -303,12 +303,11 @@
       <file name="$USER_HOME$/sites/frontend/www/canadadrives/resources/views/layout/foot.blade.php" timestamp="1544226869370">
         <mark key="[" line="7" column="60" />
       </file>
+      <file name="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" timestamp="1544816128302">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="43" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="46" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
       <jump line="49" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
       <jump line="62" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
       <jump line="72" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
@@ -405,6 +404,10 @@
       <jump line="115" column="6" filename="$USER_HOME$/sites/frontend/www/site-freedomcarcredit-apply-vue/src/components/application/v1/steps/Finished.vue" />
       <jump line="126" column="4" filename="$USER_HOME$/sites/frontend/www/site-freedomcarcredit-apply-vue/src/components/application/v1/steps/Finished.vue" />
       <jump line="136" column="4" filename="$USER_HOME$/sites/frontend/www/site-freedomcarcredit-apply-vue/src/components/application/v1/steps/Finished.vue" />
+      <jump line="77" column="8" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
+      <jump line="34" column="32" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
+      <jump line="154" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -414,7 +417,7 @@
         <text>when creating fsf type blogs, prepend site origin string to the images inserted in the blog body</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwqXD4=</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIEFwcFxCbG9nXEJsb2dDYXRlZ29yeTsK</text>
@@ -447,15 +450,15 @@
         <text encoding="base64">ICAgICAgdmFyIGZpbmFsVXJsID0gYXBwbHlBbmNob3IuZ2V0QXR0cmlidXRlKCdocmVmJykuc3BsaXQoJz8nKVswXSArIHFzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwqXD4=</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwqXD4=</last-pattern>
-      <last-replace>12px</last-replace>
-      <last-substitute>24px</last-substitute>
+      <last-pattern>private</last-pattern>
+      <last-replace>public</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -464,6 +467,7 @@
         <entry>function</entry>
         <entry>24px</entry>
         <entry encoding="base64">XDwqXD4=</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
@@ -479,8 +483,9 @@
         <entry>set paste</entry>
         <entry>175</entry>
         <entry>98</entry>
-        <entry>23</entry>
         <entry>22</entry>
+        <entry>%s/private/public/g</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
