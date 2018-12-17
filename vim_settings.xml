@@ -225,6 +225,9 @@
       <file name="$USER_HOME$/sites/frontend/www/canadadrives/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php" timestamp="1540189764034">
         <mark key="[" line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/api/api/article/services/Article.js" timestamp="1545078880890">
+        <mark key="'" line="144" column="0" />
+      </file>
       <file name="/fragment.php" timestamp="1540576820119">
         <mark key="[" line="0" column="0" />
       </file>
@@ -308,22 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="77" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="96" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="103" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="110" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="234" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="230" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="226" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="217" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="208" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="203" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="199" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
-      <jump line="194" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
       <jump line="189" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
       <jump line="184" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
       <jump line="177" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/routes.php" />
@@ -408,6 +395,22 @@
       <jump line="34" column="32" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
       <jump line="154" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sites/frontend/www/canadadrives/app/Http/Controllers/GetResponse.php" />
+      <jump line="26" column="9" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="199" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="185" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="175" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="166" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="148" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/api/api/article/services/Article.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
